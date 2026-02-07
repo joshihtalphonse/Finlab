@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run build
-        run: echo "CI is running.dhshd"
+        run: echo "CI is running.runnn"
